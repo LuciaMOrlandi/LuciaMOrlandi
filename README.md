@@ -1,10 +1,5 @@
 # About me
-
-
-**LuciaMOrlandi/LuciaMOrlandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Archaeologist and historian
 - 🔭 I’m currently working on my postdoctoral project, financed by the EU
 - 🌱 I’m currently learning X-technologies and deepening my knowledge of Roman epigraphy
 - ✨ Interested in :
